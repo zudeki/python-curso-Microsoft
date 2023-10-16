@@ -2,7 +2,7 @@ print ('hello world') # Muestra por pantalla
 
 # program.py
 sum = 1 + 2 #Operando 
-print (sum) #Muesrta por pantalla intento 14 para comprender esta cosa
+print (sum) #Muesrta por pantalla intento 15 para comprender esta cosa
 
 
 
